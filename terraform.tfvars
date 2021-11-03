@@ -15,7 +15,7 @@ dataset_labels = {
 tables = [
   {
     table_id           = "autotelemetry",
-    schema             =  "schema_autotelemetry.json",
+    schema             =  "autotelemetry.json",
     labels          = {
       env      = "dev"
       billable = "true"
@@ -24,7 +24,7 @@ tables = [
   },
   {
     table_id           = "components",
-    schema             =  "schema_components.json",
+    schema             =  "components.json",
     labels = {
       env      = "devops"
       billable = "true"
@@ -33,7 +33,7 @@ tables = [
   },
   {
     table_id           = "dealerdata",
-    schema             =  "schema_dealerdata.json",
+    schema             =  "dealerdata.json",
     labels          = {
       env      = "dev"
       billable = "true"
@@ -42,7 +42,7 @@ tables = [
   },
   {
     table_id           = "errorcodes",
-    schema             =  "schema_errorcodes.json",
+    schema             =  "errorcodes.json",
     labels          = {
       env      = "dev"
       billable = "true"
@@ -51,7 +51,7 @@ tables = [
   },
   {
     table_id           = "parts",
-    schema             =  "schema_parts.json",
+    schema             =  "parts.json",
     labels          = {
       env      = "dev"
       billable = "true"
@@ -60,7 +60,7 @@ tables = [
   },
   {
     table_id           = "predict_results",
-    schema             =  "schema_predict_results.json",
+    schema             =  "predict_results.json",
     labels          = {
       env      = "dev"
       billable = "true"
@@ -69,7 +69,7 @@ tables = [
   },
   {
     table_id           = "vindevicemapping",
-    schema             =  "schema_vindevicemapping.json",
+    schema             =  "vindevicemapping.json",
     labels          = {
       env      = "dev"
       billable = "true"
