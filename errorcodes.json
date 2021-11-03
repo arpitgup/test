@@ -1,0 +1,25 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Error_Code",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Description",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Component_Type_Affected",
+    "type": "INTEGER"
+  },
+  {
+    "name": "Repair_Cost",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "Manpower",
+    "type": "NUMERIC"
+  }
+]

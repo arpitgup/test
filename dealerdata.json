@@ -1,0 +1,132 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "vin",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "car_name",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "year",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "date",
+    "type": "DATE"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "sale_price",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "times_viewed",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "body_type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "transmission",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "variant",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "assured_buy",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "City",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "State",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "is_hot",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "rto",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "source",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "make",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "model",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "car_availability",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "total_owners",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "borker_quote",
+    "type": "INTEGER"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "original_price",
+    "type": "FLOAT"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "car_rating",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "ad_created_on",
+    "type": "TIMESTAMP"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "fitness_certificate",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "reserved",
+    "type": "BOOLEAN"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "warranty_av",
+    "type": "BOOLEAN"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "name": "date",
+    "type": "DATE"
+  },
+  {
+    "name": "gps_speed",
+    "type": "FLOAT"
+  },
+  {
+    "name": "battery",
+    "type": "FLOAT"
+  },
+  {
+    "name": "cTemp",
+    "type": "FLOAT"
+  },
+  {
+    "name": "eLoad",
+    "type": "FLOAT"
+  },
+  {
+    "name": "iat",
+    "type": "FLOAT"
+  },
+  {
+    "name": "imap",
+    "type": "FLOAT"
+  },
+  {
+    "name": "kpl",
+    "type": "FLOAT"
+  },
+  {
+    "name": "maf",
+    "type": "FLOAT"
+  },
+  {
+    "name": "rpm",
+    "type": "FLOAT"
+  },
+  {
+    "name": "speed",
+    "type": "FLOAT"
+  },
+  {
+    "name": "tAdv",
+    "type": "FLOAT"
+  },
+  {
+    "name": "tPos",
+    "type": "FLOAT"
+  },
+  {
+    "name": "dtc",
+    "type": "INTEGER"
+  },
+  {
+    "name": "vin",
+    "type": "STRING"
+  }
+]

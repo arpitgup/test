@@ -1,0 +1,17 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "Component_Type",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Component_",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "Component_Id",
+    "type": "INTEGER"
+  }
+]

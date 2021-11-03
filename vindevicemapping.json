@@ -1,0 +1,12 @@
+[
+  {
+    "mode": "NULLABLE",
+    "name": "vin",
+    "type": "STRING"
+  },
+  {
+    "mode": "NULLABLE",
+    "name": "deviceId",
+    "type": "INTEGER"
+  }
+]

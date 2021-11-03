@@ -1,0 +1,70 @@
+[
+  {
+    "name": "timestamp",
+    "type": "TIMESTAMP"
+  },
+  {
+    "name": "tripID",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "accData",
+    "type": "STRING"
+  },
+  {
+    "name": "gps_speed",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "battery",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "cTemp",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "dtc",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "eLoad",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "iat",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "imap",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "kpl",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "maf",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "rpm",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "speed",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "tAdv",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "tPos",
+    "type": "NUMERIC"
+  },
+  {
+    "name": "deviceId",
+    "type": "NUMERIC"
+  }
+]
